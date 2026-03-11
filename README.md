@@ -46,9 +46,16 @@ An end-to-end intelligent system that combines **Computer Vision, IoT sensor ana
 
 ## 📂 Project Structure
 
-notebook/ → Main Colab notebook
-sample_data/ → Example inputs
-outputs/ → Generated reports
+food-quality-cold-storage-ai/
+├── notebook/
+│   └── food_quality_cold_storage_ai.ipynb
+│
+├── sample_data/
+│   ├── sample_images.zip
+│   └── sample_sensor_data.xlsx
+│
+├── outputs/
+│   └── sample_report.csv
 
 ---
 
