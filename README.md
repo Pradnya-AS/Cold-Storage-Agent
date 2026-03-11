@@ -84,4 +84,4 @@ The system generates:
 
 ## 👤 Author
 
-A S Pradntya — IOT Project
+A S Pradnya — IOT Project
