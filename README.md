@@ -59,7 +59,6 @@ food-quality-cold-storage-ai/
     └── sample_report.csv
 ```
 
-
 ## 📊 Output
 
 The system generates:
