@@ -46,6 +46,7 @@ An end-to-end intelligent system that combines **Computer Vision, IoT sensor ana
 
 ## 📂 Project Structure
 
+```
 food-quality-cold-storage-ai/
 ├── notebook/
 │   └── food_quality_cold_storage_ai.ipynb
@@ -54,10 +55,9 @@ food-quality-cold-storage-ai/
 │   ├── sample_images.zip
 │   └── sample_sensor_data.xlsx
 │
-├── outputs/
-│   └── sample_report.csv
-
----
+└── outputs/
+    └── sample_report.csv
+```
 
 
 ## 📊 Output
@@ -81,7 +81,8 @@ The system generates:
 * Designed for research and educational use
 
 ---
+## 👤 Authors - IOT Project
 
-## 👤 Author
-
-A S Pradnya — IOT Project
+- **A S Pradnya**  
+- **Mahidhar Reddy G**  
+- **Saket Dwaraka Bhamidipaati**
